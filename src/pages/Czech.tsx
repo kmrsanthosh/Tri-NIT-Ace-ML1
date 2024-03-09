@@ -102,7 +102,6 @@ const Czech: React.FC<CzechProps> = () => {
             align={"center"}
             flexWrap="wrap"
           >
-            {" "}
             {loading && (
               <Flex justify="center" align="center" mt={4}>
                 <Spinner size="lg" />

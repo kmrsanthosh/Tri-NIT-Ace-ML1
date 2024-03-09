@@ -31,7 +31,7 @@ const AboutUs: React.FC<AboutUsProps> = () => {
               systems. United by our passion for innovation, we're on a mission
               to build a global platform for real-time road damage detection.
               Together, we're combining our technical expertise with business
-              acumen to create safer roads and smarter cities.{" "}
+              acumen to create safer roads and smarter cities.
             </Text>
           </Flex>
         </>

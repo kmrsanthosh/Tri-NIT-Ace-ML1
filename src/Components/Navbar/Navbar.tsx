@@ -26,11 +26,9 @@ const Navbar: React.FC<NavbarProps> = () => {
         {/* Left Side */}
         <Flex direction={"column"} w={{ base: "100%", md: "50%" }}>
           <Text fontSize={{ base: 24, md: 52 }} fontWeight={"600"}>
-            {" "}
             Team Ace
           </Text>
           <Text fontSize={{ base: 14, md: 21 }}>
-            {" "}
             Road Health at Your Fingertips
           </Text>
         </Flex>
